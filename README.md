@@ -1,5 +1,3 @@
-## Changes
-
 <img src=".github/logo.png" alt="Foundry logo" align="right" width="120" />
 
 ## Foundry
